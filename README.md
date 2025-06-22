@@ -20,14 +20,14 @@ Microsoft Excel 📈
 
 # Conhecimentos Aplicados <br>
 Durante a execução deste projeto, foi possível consolidar os seguintes conceitos: <br>
-Fórmulas financeiras em Excel (SOMA, PROCV, TIR, entre outras); <br>
-Formatação condicional e validação de dados; <br>
-Estruturação lógica para criação de simuladores financeiros. <br>
+• Fórmulas financeiras em Excel (SOMA, PROCV, TIR, entre outras); <br>
+• Formatação condicional e validação de dados; <br>
+• Estruturação lógica para criação de simuladores financeiros. <br>
 
 
 # Como Utilizar <br>
-Faça o download da planilha Simulador_Investimentos_Fundos_Imobiliarios.xlsx <br>
-Abra no Microsoft Excel <br>
-Preencha os campos de entrada com seus dados de investimento desejados <br>
-Visualize as projeções de forma automática.
+1. Faça o download da planilha Simulador_Investimentos_Fundos_Imobiliarios.xlsx <br>
+2. Abra no Microsoft Excel <br>
+3. Preencha os campos de entrada com seus dados de investimento desejados <br>
+4. Visualize as projeções de forma automática.
 
