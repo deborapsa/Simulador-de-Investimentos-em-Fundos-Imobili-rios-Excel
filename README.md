@@ -4,10 +4,10 @@
 Este repositório foi criado como parte do Desafio de Projeto da DIO com foco na aplicação prática de Excel para o mundo dos investimentos. A proposta é simples, mas poderosa: desenvolver uma ferramenta de simulação de investimentos em Fundos Imobiliários (FIIs) que ajude investidores a tomarem decisões mais informadas sobre onde e como alocar seu dinheiro.
 
 Através desta planilha, o usuário poderá visualizar de forma clara e automatizada:
-✅ Valor total investido ao longo do tempo
-✅ Acúmulo de patrimônio
-✅ Projeção de dividendos mensais
-✅ Retorno financeiro simulado com base em diferentes cenários de aporte e rendimento
+✅ Valor total investido ao longo do tempo <br>
+✅ Acúmulo de patrimônio <br>
+✅ Projeção de dividendos mensais <br>
+✅ Retorno financeiro simulado com base em diferentes cenários de aporte e rendimento <br>
 
 # Tecnologias e Ferramentas Utilizadas
 Microsoft Excel 📈
